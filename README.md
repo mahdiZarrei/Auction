@@ -17,7 +17,7 @@ An NFT auction is like a digital art sale where people bid on unique digital ite
 
 ## Clone Repository
 
-git clone https://github.com/rakmans/Auction-Dapp.git
+git clone https://github.com/mahdiZarrei/Auction.git
 cd Auction-Dapp
 
 ## Requirements
